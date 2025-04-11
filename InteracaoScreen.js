@@ -1,14 +1,5 @@
 import React, { useState } from 'react';
-import {
-  View,
-  Text,
-  TextInput,
-  Button,
-  StyleSheet,
-  ScrollView,
-  Image,
-  Switch,
-  TouchableOpacity,
+import {View,Text,TextInput,Button,StyleSheet,ScrollView,Image,Switch,TouchableOpacity,
 } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
 import Slider from '@react-native-community/slider';
